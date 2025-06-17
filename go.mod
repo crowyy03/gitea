@@ -293,3 +293,9 @@ exclude github.com/gofrs/uuid v4.0.0+incompatible
 exclude github.com/goccy/go-json v0.4.11
 
 exclude github.com/satori/go.uuid v1.2.0
+
+replace (
+	github.com/alecthomas/chroma/v2 => github.com/crowyy03/chroma/v2 v2.17.0
+	github.com/go-enry/go-enry/v2 => github.com/crowyy03/go-enry/v2 v2.9.2
+	github.com/go-enry/go-oniguruma => github.com/crowyy03/go-oniguruma v1.2.3
+)
