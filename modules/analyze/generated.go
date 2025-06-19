@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/go-enry/go-enry/v2/data"
+	"github.com/crowyy03/go-enry/v2/data"
 )
 
 // IsGenerated returns whether or not path is a generated path.

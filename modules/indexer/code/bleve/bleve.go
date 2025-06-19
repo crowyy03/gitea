@@ -35,7 +35,7 @@ import (
 	"github.com/blevesearch/bleve/v2/analysis/tokenizer/unicode"
 	"github.com/blevesearch/bleve/v2/mapping"
 	"github.com/blevesearch/bleve/v2/search/query"
-	"github.com/go-enry/go-enry/v2"
+	"github.com/crowyy03/go-enry/v2"
 )
 
 const (

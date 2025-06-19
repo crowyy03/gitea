@@ -15,7 +15,7 @@ import (
 	"code.gitea.io/gitea/modules/log"
 	"code.gitea.io/gitea/modules/optional"
 
-	"github.com/go-enry/go-enry/v2"
+	"github.com/crowyy03/go-enry/v2"
 )
 
 // GetLanguageStats calculates language stats for git repository at specified commit

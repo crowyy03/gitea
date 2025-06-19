@@ -4,7 +4,7 @@
 package analyze
 
 import (
-	"github.com/go-enry/go-enry/v2"
+	"github.com/crowyy03/go-enry/v2"
 )
 
 // IsVendor returns whether or not path is a vendor path.

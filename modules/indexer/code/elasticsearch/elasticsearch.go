@@ -26,7 +26,7 @@ import (
 	"code.gitea.io/gitea/modules/typesniffer"
 	"code.gitea.io/gitea/modules/util"
 
-	"github.com/go-enry/go-enry/v2"
+	"github.com/crowyy03/go-enry/v2"
 	"github.com/olivere/elastic/v7"
 )
 
