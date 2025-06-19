@@ -21,10 +21,10 @@ import (
 	"code.gitea.io/gitea/modules/setting"
 	"code.gitea.io/gitea/modules/util"
 
-	"github.com/alecthomas/chroma/v2"
-	"github.com/alecthomas/chroma/v2/formatters/html"
-	"github.com/alecthomas/chroma/v2/lexers"
-	"github.com/alecthomas/chroma/v2/styles"
+	"github.com/crowyy03/chroma/v2"
+	"github.com/crowyy03/chroma/v2/formatters/html"
+	"github.com/crowyy03/chroma/v2/lexers"
+	"github.com/crowyy03/chroma/v2/styles"
 	lru "github.com/hashicorp/golang-lru/v2"
 )
 
