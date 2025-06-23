@@ -214,14 +214,14 @@ github.com/cpuguy83/go-md2man v1.0.10/go.mod h1:SmD6nW6nTyfqj6ABTjUi3V3JVMnlJmwc
 github.com/cpuguy83/go-md2man/v2 v2.0.5 h1:ZtcqGrnekaHpVLArFSe4HK5DoKx1T0rq2DwVB0alcyc=
 github.com/cpuguy83/go-md2man/v2 v2.0.5/go.mod h1:tgQtvFlXSQOSOSIRvRPT7W67SCa46tRHOmNcaadrF8o=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
-github.com/crowyy03/chroma/v2 v2.19.0-mpl h1:WvugpC3n5Y6hXIGaPQFQv+A8Ue/+uhrbmzDHyGCxfso=
-github.com/crowyy03/chroma/v2 v2.19.0-mpl/go.mod h1:aksL0DhRDxtHzWiuGBIu27OY4Pu/EzCq1BHCUfUfa5k=
 github.com/crowyy03/chroma/v2 v2.19.0 h1:ySktlCgwT4XkXg6JUEvbUYh6NlGCmitNFXID9wBMH40=
 github.com/crowyy03/chroma/v2 v2.19.0/go.mod h1:aksL0DhRDxtHzWiuGBIu27OY4Pu/EzCq1BHCUfUfa5k=
-github.com/crowyy03/go-enry/v2 v2.9.2-mpl h1:+N8QAkNdMqC9rwQKLyz3eyA4WApll2qSBBzmatTrwSA=
-github.com/crowyy03/go-enry/v2 v2.9.2-mpl/go.mod h1:i3tWug602vZZJkwqTMIMUtBe8/N3PjnaXvdOsJSN5nI=
+github.com/crowyy03/go-enry/v2 v2.9.2-mpl-complete h1:pKdjEI2Re62+QoDCFUad1L2Bqp54fywhiJYTbFB+OqA=
+github.com/crowyy03/go-enry/v2 v2.9.2-mpl-complete/go.mod h1:i3tWug602vZZJkwqTMIMUtBe8/N3PjnaXvdOsJSN5nI=
 github.com/crowyy03/go-oniguruma v1.2.1 h1:cCocPBMcxlc75pyjrMg/Kg9HmqLf7KsHEk2sHe2Ln50=
 github.com/crowyy03/go-oniguruma v1.2.1/go.mod h1:bWDhYP+S6xZQgiRL7wlTScFYBe023B6ilRZbCAD5Hf4=
+github.com/crowyy03/goldmark-highlighting/v2 v2.0.0-mpl-complete h1:hhqKFVVCEO4v4T739qRMQ9KCARA1lpMcyp57xN+2PAU=
+github.com/crowyy03/goldmark-highlighting/v2 v2.0.0-mpl-complete/go.mod h1:IkvIDKsRnzaOY6mWorf93DnXbPuRLu+5Qdv30x3udk8=
 github.com/cyphar/filepath-securejoin v0.4.1 h1:JyxxyPEaktOD+GAnqIqTf9A8tHyAG22rowi7HkoSU1s=
 github.com/cyphar/filepath-securejoin v0.4.1/go.mod h1:Sdj7gXlvMcPZsbhwhQ33GguGLDGQL7h7bg04C/+u9jI=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
@@ -721,8 +721,6 @@ github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5t
 github.com/yuin/goldmark v1.4.15/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
 github.com/yuin/goldmark v1.7.10 h1:S+LrtBjRmqMac2UdtB6yyCEJm+UILZ2fefI4p7o0QpI=
 github.com/yuin/goldmark v1.7.10/go.mod h1:ip/1k0VRfGynBgxOz0yCqHrbZXhcjxyuS66Brc7iBKg=
-github.com/yuin/goldmark-highlighting/v2 v2.0.0-20230729083705-37449abec8cc h1:+IAOyRda+RLrxa1WC7umKOZRsGq4QrFFMYApOeHzQwQ=
-github.com/yuin/goldmark-highlighting/v2 v2.0.0-20230729083705-37449abec8cc/go.mod h1:ovIvrum6DQJA4QsJSovrkC4saKHQVs7TvcaeO8AIl5I=
 github.com/yuin/goldmark-meta v1.1.0 h1:pWw+JLHGZe8Rk0EGsMVssiNb/AaPMHfSRszZeUeiOUc=
 github.com/yuin/goldmark-meta v1.1.0/go.mod h1:U4spWENafuA7Zyg+Lj5RqK/MF+ovMYtBvXi1lBb2VP0=
 github.com/zeebo/assert v1.3.0 h1:g7C04CbJuIDKNPFHmsk4hwZDO5O+kntRxzaUoNXj+IQ=

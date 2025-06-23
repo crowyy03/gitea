@@ -92,3 +92,23 @@ prime/
 
 # Manpage
 /man
+
+.git
+.gitignore
+README.md
+Dockerfile
+docker-compose.yml
+.dockerignore
+*.md
+docs/
+.github/
+.vscode/
+.idea/
+*.log
+gitea
+postgres/
+gitea/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

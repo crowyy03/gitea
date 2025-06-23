@@ -18,8 +18,8 @@ import (
 	giteautil "code.gitea.io/gitea/modules/util"
 
 	chromahtml "github.com/crowyy03/chroma/v2/formatters/html"
+	highlighting "github.com/crowyy03/goldmark-highlighting/v2"
 	"github.com/yuin/goldmark"
-	highlighting "github.com/yuin/goldmark-highlighting/v2"
 	meta "github.com/yuin/goldmark-meta"
 	"github.com/yuin/goldmark/extension"
 	"github.com/yuin/goldmark/parser"
