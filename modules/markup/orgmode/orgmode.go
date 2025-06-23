@@ -16,8 +16,8 @@ import (
 	"code.gitea.io/gitea/modules/markup"
 	"code.gitea.io/gitea/modules/setting"
 
-	"github.com/alecthomas/chroma/v2"
-	"github.com/alecthomas/chroma/v2/lexers"
+	"github.com/crowyy03/chroma/v2"
+	"github.com/crowyy03/chroma/v2/lexers"
 	"github.com/niklasfasching/go-org/org"
 )
 

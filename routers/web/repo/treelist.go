@@ -16,7 +16,7 @@ import (
 	"code.gitea.io/gitea/services/gitdiff"
 	files_service "code.gitea.io/gitea/services/repository/files"
 
-	"github.com/go-enry/go-enry/v2"
+	"github.com/crowyy03/go-enry/v2"
 )
 
 // TreeList get all files' entries of a repository

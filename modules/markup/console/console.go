@@ -12,7 +12,7 @@ import (
 	"code.gitea.io/gitea/modules/setting"
 
 	trend "github.com/buildkite/terminal-to-html/v3"
-	"github.com/go-enry/go-enry/v2"
+	"github.com/crowyy03/go-enry/v2"
 )
 
 func init() {

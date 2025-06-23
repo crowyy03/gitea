@@ -1036,7 +1036,7 @@ been added to each release, please refer to the [blog](https://blog.gitea.com).
   * Improve some sanitizer rules (#32534)
   * Update nix development environment vor v1.22.x (#32495)
   * Add warn log when deleting inactive users (#32318) (#32321)
-  * Update github.com/go-enry/go-enry to v2.9.1 (#32295) (#32296)
+  * Update github.com/crowyy03/go-enry/v2 to v2.9.1 (#32295) (#32296)
   * Warn users when they try to use a non-root-url to sign in/up (#32272) (#32273)
 
 ## [1.22.3](https://github.com/go-gitea/gitea/releases/tag/v1.22.3) - 2024-10-08

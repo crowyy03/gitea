@@ -27,7 +27,6 @@ require (
 	github.com/ProtonMail/go-crypto v1.2.0
 	github.com/PuerkitoBio/goquery v1.10.3
 	github.com/SaveTheRbtz/zstd-seekable-format-go/pkg v0.7.3
-	github.com/alecthomas/chroma/v2 v2.17.0
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.67
 	github.com/aws/aws-sdk-go-v2/service/codecommit v1.28.2
 	github.com/blakesmith/ar v0.0.0-20190502131153-809d4375e1fb
@@ -37,6 +36,9 @@ require (
 	github.com/caddyserver/certmagic v0.23.0
 	github.com/charmbracelet/git-lfs-transfer v0.2.0
 	github.com/chi-middleware/proxy v1.1.1
+	github.com/crowyy03/chroma/v2 v2.19.0
+	github.com/crowyy03/go-enry/v2 v2.9.2-mpl-final
+	github.com/crowyy03/goldmark-highlighting/v2 v2.0.0-mpl-complete
 	github.com/dimiro1/reply v0.0.0-20200315094148-d0136a4c9e21
 	github.com/djherbis/buffer v1.2.0
 	github.com/djherbis/nio/v3 v3.0.1
@@ -54,7 +56,6 @@ require (
 	github.com/go-chi/chi/v5 v5.2.1
 	github.com/go-chi/cors v1.2.1
 	github.com/go-co-op/gocron v1.37.0
-	github.com/go-enry/go-enry/v2 v2.9.2
 	github.com/go-git/go-billy/v5 v5.6.2
 	github.com/go-git/go-git/v5 v5.16.0
 	github.com/go-ldap/ldap/v3 v3.4.11
@@ -114,7 +115,6 @@ require (
 	github.com/xeipuuv/gojsonschema v1.2.0
 	github.com/yohcop/openid-go v1.0.1
 	github.com/yuin/goldmark v1.7.10
-	github.com/yuin/goldmark-highlighting/v2 v2.0.0-20230729083705-37449abec8cc
 	github.com/yuin/goldmark-meta v1.1.0
 	gitlab.com/gitlab-org/api/client-go v0.127.0
 	golang.org/x/crypto v0.39.0
@@ -295,7 +295,8 @@ exclude github.com/goccy/go-json v0.4.11
 exclude github.com/satori/go.uuid v1.2.0
 
 replace (
-	github.com/alecthomas/chroma/v2 => github.com/crowyy03/chroma/v2 v2.17.0
-	github.com/go-enry/go-enry/v2 => github.com/crowyy03/go-enry/v2 v2.9.2
-	github.com/go-enry/go-oniguruma => github.com/crowyy03/go-oniguruma v1.2.3
+	github.com/alecthomas/chroma/v2 => github.com/crowyy03/chroma/v2 v2.19.0-mpl
+	github.com/crowyy03/go-enry/v2 => github.com/crowyy03/go-enry/v2 v2.9.2-mpl-complete
+	github.com/go-enry/go-oniguruma => github.com/crowyy03/go-oniguruma v1.2.1
+	github.com/yuin/goldmark-highlighting/v2 => github.com/crowyy03/goldmark-highlighting/v2 v2.0.0-mpl-complete
 )
